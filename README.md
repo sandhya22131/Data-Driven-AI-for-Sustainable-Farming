@@ -1,27 +1,31 @@
-# Data-Driven-AI-for-Sustainable-Farming 🌱🤖
+# 🌾 Sustainable Farming AI Dashboard
 
-An AI-powered solution designed to enhance sustainable farming practices through data-driven insights. This project focuses on optimizing crop yield, resource management, and environmental impact using machine learning and IoT.
-
----
+A real-time AI-powered Streamlit dashboard to optimize sustainable farming using live sensor data such as temperature, humidity, soil moisture, rainfall, and pH. This tool provides actionable recommendations for irrigation, crop yield prediction, and soil health.
 
 ## 🚀 Features
 
-- 📊 Real-time data collection from soil, weather, and crop sensors
-- 🧠 Machine Learning models for yield prediction & disease detection
-- 🌾 Crop recommendation system based on soil health and climate
-- 🌐 Dashboard for visualizing analytics and monitoring fields
+- 🌡️ Sensor Input Interface (Temp, Humidity, Rainfall, pH, Soil Moisture)
+- 🤖 AI-Based Crop Yield Prediction
+- 💧 Auto-Irrigation Suggestions
+- 🌱 Dynamic Crop Selector
+- 📊 Interactive Charts for Environmental Trends
+- ⚠️ Smart Warnings for Soil and Climate Conditions
 
 ---
 
-## 🛠️ Technologies Used
+## 🧠 Technologies Used
 
-- Python, Pandas, NumPy
-- Scikit-learn / TensorFlow / PyTorch (based on what you're using)
-- Flask / Django (for backend, if applicable)
-- React / Streamlit / Dash (for frontend or dashboard)
-- IoT sensors & edge computing (MEC) integration
+- Python
+- [Streamlit](https://streamlit.io/) - Fastest way to build and share data apps
 
 ---
 
-## 📁 Project Structure
+## 📦 Installation
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/your-username/sustainable-farming-dashboard.git
+cd sustainable-farming-dashboard
+
 
