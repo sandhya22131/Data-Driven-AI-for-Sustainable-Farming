@@ -1,4 +1,2 @@
 streamlit
-pandas
-scikit-learn
-sqlite3-binar
+
